@@ -50,8 +50,8 @@ streamlit run app.py
 
 ## Developer
 
-Azizur Rahman
+Md Anas Ansari
 
-M.Sc Cyber Security
+Master of Computer Applications
 
-Aligarh Muslim University
+Integral University
