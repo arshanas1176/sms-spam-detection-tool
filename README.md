@@ -1,5 +1,8 @@
 # SMS Spam Detection Tool
+## Live Application
 
+Click here to use the app:
+https://sms-spam-detection-tool.onrender.com/
 ## Overview
 
 SMS Spam Detection Tool is a machine learning web application that classifies SMS messages as Spam or Legitimate using TF-IDF Vectorization and Logistic Regression.
