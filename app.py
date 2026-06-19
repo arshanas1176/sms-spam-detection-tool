@@ -564,9 +564,9 @@ elif selected == "About":
 
         ### Developer
 
-        Azizur Rahman
+      Md Anas Ansari
 
-        M.Sc Cyber Security
-        Aligarh Muslim University
+        Master of Computer Applications
+        Integral University
         """
     )
