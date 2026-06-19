@@ -1,0 +1,7 @@
+**pycache**/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+prediction_history.csv
